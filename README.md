@@ -1,5 +1,4 @@
-*********************java********************************************
-********************STUDENT TRACKING SYSTEM--JAVA SE MVC*************
+STUDENT TRACKING SYSTEM--JAVA SE MVC*************
 --jsp
 --servlet
 --Mysql
